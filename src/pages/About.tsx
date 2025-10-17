@@ -19,21 +19,21 @@ const About = () => {
     const educations = [
         {
             name: 'Matriculation',
-            date: '2017',
+            date: '2016',
             description: 'Completed high school with a focus on science and mathematics.',
-            score: '9.2 CGPA',
+            score: '74%',
         },
         {
             name: 'Intermediate',
-            date: '2019',
+            date: '2018',
             description: 'Studied Physics, Chemistry, and Mathematics.',
-            score: '70.6%',
+            score: '66%',
         },
         {
             name: 'B.Tech',
-            date: '2019 - 2023',
-            description: 'Graduated with a degree in Computer Science.',
-            score: '8.9 CGPA',
+            date: '2018 - 2022',
+            description: 'Graduated with a degree in Computer Science.(Specialized in Cloud technology and Information Security)',
+            score: '6.8 CGPA',
         },
     ];
 
@@ -48,10 +48,10 @@ const About = () => {
                 className="max-w-3xl mx-auto text-center mb-6"
             >
                 <h1 className="text-2xl md:text-3xl font-semibold text-light-foreground dark:text-dark-foreground">
-                    I’m an <span className="text-light-primary dark:text-dark-primary">experienced Software Engineer</span> with 2 years of expertise in
+                    I’m an <span className="text-light-primary dark:text-dark-primary">experienced Software Engineer</span> with 3.6 years of expertise in
                     <br className="hidden sm:block" />
                     <span className="inline-block mt-1">
-                        Full Stack and Mobile App Development.
+                        Cloud and Devops tools.
                     </span>
                 </h1>
             </motion.div>

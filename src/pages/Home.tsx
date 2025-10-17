@@ -55,7 +55,7 @@ const Home = () => {
                         </motion.a>
 
                         <motion.a
-                            href="https://twitter.com/abhinav3254"
+                            href="https://x.com/iabhishektyagii"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="Twitter"
