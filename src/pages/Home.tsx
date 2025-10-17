@@ -14,10 +14,10 @@ const Home = () => {
                     className="flex-1 flex flex-col gap-6"
                 >
                     <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-                        <span className="text-light-primary dark:text-dark-primary">Hi,</span> I'm Abhinav
+                        <span className="text-light-primary dark:text-dark-primary">Hi,</span> I'm Abhishek
                     </h1>
                     <h2 className="text-xl md:text-2xl font-semibold text-light-primary dark:text-dark-primary">
-                        A Full Stack Developer
+                        Cloud Devops Engineer
                     </h2>
                     <p className="text-base md:text-lg text-gray-700 dark:text-gray-300">
                         I enjoy solving complex problems. Frequently praised as detail-oriented by my peers,
@@ -27,7 +27,7 @@ const Home = () => {
                     {/* Social Icons */}
                     <div className="flex gap-6 pt-2">
                         <motion.a
-                            href="https://linkedin.com/in/abhinav3254"
+                            href="www.linkedin.com/in/iabhishektyagii"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="LinkedIn"
@@ -41,7 +41,7 @@ const Home = () => {
                         </motion.a>
 
                         <motion.a
-                            href="https://github.com/abhinav3254"
+                            href="https://github.com/Abhishektyagi11"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="GitHub"

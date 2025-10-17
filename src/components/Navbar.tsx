@@ -31,7 +31,7 @@ const Navbar = () => {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between items-center h-16">
                     <div className="flex-shrink-0 text-xl font-bold text-blue-600 dark:text-blue-400">
-                        Abhinav
+                        Abhishek
                     </div>
 
                     {/* Desktop Links */}
