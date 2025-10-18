@@ -14,7 +14,7 @@ const Home = () => {
                     className="flex-1 flex flex-col gap-6"
                 >
                     <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-                        <span className="text-light-primary dark:text-dark-primary">Hi,</span> I'm Abhishek Tyagii
+                        <span className="text-light-primary dark:text-dark-primary">Hi,</span> I'm Abhishek Tyagi
                     </h1>
                     <h2 className="text-xl md:text-2xl font-semibold text-light-primary dark:text-dark-primary">
                         Cloud Devops Engineer
