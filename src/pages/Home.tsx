@@ -27,7 +27,7 @@ const Home = () => {
                     {/* Social Icons */}
                     <div className="flex gap-6 pt-2">
                         <motion.a
-                            href="www.linkedin.com/in/iabhishektyagii"
+                            href="https://www.linkedin.com/in/iabhishektyagii/"
                             target="_blank"
                             rel="noopener noreferrer"
                             aria-label="LinkedIn"
